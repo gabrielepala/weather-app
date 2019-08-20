@@ -4,7 +4,7 @@ Weather App using Weather API -> https://openweathermap.org/api
 
 Using Vanilla Javascript
 
-<h1>For run or clone</h1>
+## For run or clone 🚀
 
   ```
   npm install
