@@ -1,4 +1,4 @@
-# javascript-weather-app
+# Vanilla Javascript Weather App
 
 A small weather app made with the API (https://openweathermap.org/api), Vanilla Javascript and SASS.
  
