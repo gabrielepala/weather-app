@@ -1,6 +1,6 @@
 # weather-app
 
-# A small weather app made with the API (https://openweathermap.org/api), Vanilla Javascript and SASS.
+ A small weather app made with the API (https://openweathermap.org/api), Vanilla Javascript and SASS.
 
   <br>
 
