@@ -6,10 +6,11 @@ Using Vanilla Javascript
 
 <h1>For run or clone</h1>
 
+  ```
+  npm install
 
-  **npm install**
-
-  **npm run dev**
+  npm run dev
+  ```
   
   <br>
 
