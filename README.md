@@ -3,14 +3,6 @@
  A small weather app made with the API (https://openweathermap.org/api), Vanilla Javascript and SASS.
  
  Locate your current position, you can search for the city where you are at that moment, and remove it.
- 
- ## For run (download or copy the code)
- 
- ```
-npm install
-npm run start
-```
- 
 
   <br>
 
