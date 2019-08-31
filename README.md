@@ -1,6 +1,6 @@
 # Vanilla Javascript Weather App
 
-## To visit it <a href="gspaladev-weather-app.netlify.com">Click here</a>
+## <a href="gspaladev-weather-app.netlify.com">Click here</a>
 
 A small weather app made with the API (https://openweathermap.org/api), Vanilla Javascript and SASS.
  
