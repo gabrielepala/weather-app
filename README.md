@@ -14,7 +14,7 @@ A small weather app made with the API (https://openweathermap.org/api), Vanilla 
 
 <br>
 
-### For run
+### For run (if you download it for the first time here from github)
 
 ```
 npm install
