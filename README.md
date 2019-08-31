@@ -12,3 +12,12 @@ A small weather app made with the API (https://openweathermap.org/api), Vanilla 
 
 ![screen2](https://user-images.githubusercontent.com/43547833/63328204-05859d80-c330-11e9-8677-9b896e8d5305.png)
 
+<br>
+
+### For run
+
+```
+npm install
+npm run dev
+```
+
