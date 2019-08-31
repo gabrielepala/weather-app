@@ -18,6 +18,6 @@ A small weather app made with the API (https://openweathermap.org/api), Vanilla 
 
 ```
 npm install
-npm run dev
+npm run start
 ```
 
