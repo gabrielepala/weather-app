@@ -35,9 +35,6 @@ export const renderView = (current, data, other) => {
             }ºC</div>
           </div>
           <div class="main__weather__text">
-            <div class="main__weather__text--phrase animated fadeIn">${
-              current.weather.name
-            }</div>
             <div class="main__weather__text--minmax animated fadeIn">${
               current.weather.temp_min
             }ºC <span class="dot">•</span> ${current.weather.temp_max}ºC</div>
