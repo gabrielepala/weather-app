@@ -2,7 +2,7 @@
 
 ### 🚀 <a href="https://gspaladev-weather-app.netlify.com">Click here</a>
 
-A small weather app made with the API (https://openweathermap.org/api), Vanilla Javascript and SASS.
+A small weather app made with the API (https://openweathermap.org/api), Vanilla Javascript and SASS, totally responsive.
  
 ### Locate your current position, you can search for the city where you are at that moment, and remove it.
 
